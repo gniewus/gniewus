@@ -7,3 +7,5 @@ I'm Tomasz, a Berlin-crafted software and data enginner with a huge passion for 
 - ⚡ Fun fact: I proficient in English, German and Polish. I'm a Logo designer.
  ...
 -->
+
+Feel free to check out my [Medium](https://medium.com/@gniewus11) page! 
